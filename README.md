@@ -35,8 +35,14 @@ terraform plan -destroy -var-file="dev.tfvars" -input=false -out='tfplan-kill.bi
 terraform apply -destroy -input=false 'tfplan-kill.bin'
 ```
 
-## State Import:
+# Results:
 
-```hcl
-terraform import -var-file='dev.tfvars' 'azurerm_cognitive_account.textanalytics' "/subscriptions/xxx/resourceGroups/rasw-rsg-eus-d-azureai/providers/Microsoft.CognitiveServices/accounts/rasw-aai-eus-d-textanalytics"
-```
+## HAL Stock Sentiments on 25-May-2025:
+![HAL](02-JupyterNotebooks/hal-sentiment-25-may-2025.jpg)
+
+
+## Kaynes Tech Stock Sentiments on 25-May-2025:
+![Kaynes Tech](02-JupyterNotebooks/kaynes-sentiment-25-may-2025.jpg)
+
+## HAL Stock Sentiments on 25-May-2025:
+![Relaxo Footwear](02-JupyterNotebooks/relaxo-sentiment-25-may-2025.jpg)
