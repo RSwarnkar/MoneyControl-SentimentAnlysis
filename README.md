@@ -44,5 +44,5 @@ terraform apply -destroy -input=false 'tfplan-kill.bin'
 ## Kaynes Tech Stock Sentiments on 25-May-2025:
 ![Kaynes Tech](02-JupyterNotebooks/kaynes-sentiment-25-may-2025.jpg)
 
-## HAL Stock Sentiments on 25-May-2025:
+## Relaxo Footwear Stock Sentiments on 25-May-2025:
 ![Relaxo Footwear](02-JupyterNotebooks/relaxo-sentiment-25-may-2025.jpg)
