@@ -1,7 +1,7 @@
 <!-- To view this page in VSCode use: Ctrl+Shift+V -->
-# To quickly create an ACI API for Sentiment Analysis:
+# Quantify the sentiments of MoneyControl forum comments for a stock:
 
-As per the [Udemy lecture](https://tcsglobal.udemy.com/course/microsoft-azure-ai-services/learn/lecture/47485031#reviews) here, need to create below resources:
+Source: As per the [Udemy lecture](https://tcsglobal.udemy.com/course/microsoft-azure-ai-services/learn/lecture/47485031#reviews) here, need to create below resources:
 
 
 ## Create Resources: 
